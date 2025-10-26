@@ -1,6 +1,6 @@
 # home_page
 
-A new Flutter project.
+A new Flutter Qurocare project.
 
 ## Getting Started
 
